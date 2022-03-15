@@ -1,0 +1,12 @@
+/* Commentaire */
+
+/*
+* Ceci est un commentaire
+* sur plusieurs lignes
+*/
+
+p{
+    color: red; /* Couleur de la  police */
+    font-size: 32px; /* Taille de la police */
+
+}
